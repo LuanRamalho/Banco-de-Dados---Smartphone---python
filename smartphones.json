@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "412421",
+        "fabricante": "Samsung",
+        "velocidade": "2.0",
+        "nucleos": "10",
+        "armazenamento": "256"
+    },
+    {
+        "codigo": "93881",
+        "fabricante": "Motorola",
+        "velocidade": "2.5",
+        "nucleos": "12",
+        "armazenamento": "512"
+    },
+    {
+        "codigo": "238218",
+        "fabricante": "Apple",
+        "velocidade": "2",
+        "nucleos": "12",
+        "armazenamento": "256"
+    }
+]
